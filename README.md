@@ -1,2 +1,2 @@
 ### 🌟 Key Features
-- **Market Sizing
+- Market Sizing
